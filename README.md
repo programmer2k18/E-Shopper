@@ -1,4 +1,5 @@
 # E-Shopper
+  - Ecommerce website that enhances the process of selling and buying products online with the blog community system and Admin control panel
 
 # Requirements
   
