@@ -14,10 +14,10 @@
   - Clone the repo into your local machine and put it `C:\xampp\htdocs\your-folder-name-here`
   - Open phpmyadmin
   - Create database called `ecommerce_db`
-  - Import database file which is in `Database sql file` folder into the database
+  - Import database file which is in `Database sql file` folder into the database.
    
   - Go inside your project root directory and open new terminal and run command `php artisan serve`
-  - Open browser and hit url `http://127.0.0.1:8000/register` or `http://127.0.0.1:8000/home` to browse without logging
+  - Open browser and hit url `http://127.0.0.1:8000/register` or `http://127.0.0.1:8000/home` to browse without logging.
   
 # Features
 
